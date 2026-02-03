@@ -2,34 +2,12 @@
   <strong>✨ This is Cosmo Wong ✨</strong>
 </h3>
 
-
-## 🎵 Oshi
-
-### Bang Dream 🎸
- **Ave Mujica** 🎭🕯️  
- **Roselia** 🌹🎸  
- **MyGO!!!!!** 🎤⚡
-
----
-
-## 💫 Interest
-
-- 🎹 **Piano**
-- 📈 **Stock**
-- 🏎️ **Racing**
-
----
-
-## Meme
-
-- 🎸 Bang Dream meme
-- 🏳️‍🌈 Homo meme 
-
----
+## Website
+https://cosmoumadd.github.io/
 
 ## 💻 Programming
 
-`Java` · `Python` `C++` · `C#`
+`Java` · `Python` `C++` · `C#` 
 
 ---
 
