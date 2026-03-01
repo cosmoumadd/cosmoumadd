@@ -1,5 +1,5 @@
 <h3 align="center">
-  <strong>✨ This is Cosmo Wong ✨</strong>
+  <strong>✨ This is Cosmo ✨</strong>
 </h3>
 
 ## Website
