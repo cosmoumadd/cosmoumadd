@@ -3,7 +3,7 @@
 </h3>
 
 ## Website
-https://cosmoumadd.github.io/  (under maintenance)
+https://cosmoumadd.github.io/  
 
 ## 💻 Programming
 
